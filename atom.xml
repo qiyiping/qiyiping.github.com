@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[710]]></title>
+  <link href="http://qiyiping.github.io/atom.xml" rel="self"/>
+  <link href="http://qiyiping.github.io/"/>
+  <updated>2013-04-12T14:47:59+08:00</updated>
+  <id>http://qiyiping.github.io/</id>
+  <author>
+    <name><![CDATA[qiyiping]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
