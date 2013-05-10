@@ -430,4 +430,4 @@
 + [[http://www.dreams-travel.com/tibet][DreamTravel]]
 + [[file:guide_baidulvyou-lasa.pdf][拉萨攻略]]
 + [[file:guide_baidulvyou-linzhi.pdf][林芝攻略]]
-+ [[file:guide_baidulvyou-namucuo.pdf][纳木错]]
++ [[file:guide_baidulvyou-namucuo.pdf][纳木错攻略]]
