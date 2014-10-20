@@ -12,4 +12,4 @@ tagline: Yiping Qi
 </ul>
 
 ## 订阅 ##
-RSS地址: <a href="{{ BASE_PATH }}{{ rss.xml }}">{{ BASE_PATH }}{{ rss.xml }}</a>
+<a href="{{ BASE_PATH }}rss.xml">RSS.XML</a>
