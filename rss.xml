@@ -6,7 +6,7 @@
     <description>Random Thoughts From Yiping</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Nov 2019 08:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 08:29:50 +0000</lastBuildDate>
     <item>
       <title>About</title>
       <link>https://haoxue.dev/page/about.html</link>
