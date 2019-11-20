@@ -5,9 +5,17 @@
 About
 </title>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/typo.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="/assets/css/pygments.css" type="text/css" media="screen" />
-    <style type="text/css" media="screen">
+    
+<style>
+ #post-container{ padding:3% 7%; position:relative; background:#fff}
+ #post-body { margin: 1em 0; }
+ #post-title{border-bottom:3px double #eee; }
+</style>
+
+    <style>
      html{ background:#eee; }
      body{ width:90%; max-width:960px; margin:3em auto 0; padding-top:2em; }
      pre{white-space:pre-wrap;}
@@ -18,14 +26,16 @@ About
      .nav-left .nav-item {padding:0.5em;}
      .nav-right {list-style-type: none; padding: 0; overflow: hidden; margin-top:-2.5em; margin-bottom:1em;}
      .nav-right li{float: right;}
-    </style>
-    
-<style type="text/css" media="screen">
- #post-container{ padding:3% 7%; position:relative; background:#fff}
- #post-body { margin: 1em 0; }
- #post-title{border-bottom:3px double #eee; }
-</style>
 
+     @media only screen and (max-width: 640px) {
+       table{ word-break:break-all;word-wrap:break-word;font-size:12px; }
+       .typo table th, .typo table td, .typo-table th, .typo-table td .typo table caption {
+         padding: 0.5em;
+       }
+       #post-toc {display:none; }
+       .nav-left .nav-item {display:none; }
+     }
+    </style>
   </head>
   <body>
     <div class="page-header">
