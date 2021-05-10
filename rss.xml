@@ -6,17 +6,19 @@
     <description>Random Thoughts From Yiping</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2019 02:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 04:06:43 +0000</lastBuildDate>
     <item>
       <title>About</title>
       <link>https://haoxue.dev/page/about.html</link>
-      <description>&lt;h2 id="yiping-qi"&gt;YIPING QI&lt;/h2&gt;
-&lt;p&gt;I have been at &lt;a href="https://www.meituan.com"&gt;Meituan Dianping&lt;/a&gt; since 2013
+      <description>&lt;h2 id="about-me"&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I'm Yiping Qi. I have been at &lt;a href="https://www.meituan.com"&gt;Meituan Dianping&lt;/a&gt; since 2013
 working on machine learning, deep learning and operations
 research. Before that, I worked at Yahoo! Beijing R&amp;amp;D Center and
 &lt;a href="http://www.jike.com"&gt;JIKE&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I got my Bachelor and Master degrees from &lt;a href="http://cfins.au.tsinghua.edu.cn/en/about/index.php"&gt;Tsinghua
-University&lt;/a&gt;.&lt;/p&gt;</description>
+University&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;p&gt;You can send me an email to &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#113;&amp;#105;&amp;#121;&amp;#105;&amp;#112;&amp;#105;&amp;#110;&amp;#103;&amp;#64;&amp;#111;&amp;#117;&amp;#116;&amp;#108;&amp;#111;&amp;#111;&amp;#107;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#113;&amp;#105;&amp;#121;&amp;#105;&amp;#112;&amp;#105;&amp;#110;&amp;#103;&amp;#64;&amp;#111;&amp;#117;&amp;#116;&amp;#108;&amp;#111;&amp;#111;&amp;#107;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
